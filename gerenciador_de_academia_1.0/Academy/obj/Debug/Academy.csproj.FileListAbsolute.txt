@@ -1,0 +1,25 @@
+c:\users\heliandro\documents\visual studio 2015\Projects\Academy\Academy\bin\Debug\Academy.exe.config
+c:\users\heliandro\documents\visual studio 2015\Projects\Academy\Academy\bin\Debug\Academy.exe
+c:\users\heliandro\documents\visual studio 2015\Projects\Academy\Academy\bin\Debug\Academy.pdb
+c:\users\heliandro\documents\visual studio 2015\Projects\Academy\Academy\bin\Debug\Guna.UI2.dll
+c:\users\heliandro\documents\visual studio 2015\Projects\Academy\Academy\bin\Debug\System.Data.SqlServerCe.dll
+c:\users\heliandro\documents\visual studio 2015\Projects\Academy\Academy\obj\Debug\Academy.csprojResolveAssemblyReference.cache
+c:\users\heliandro\documents\visual studio 2015\Projects\Academy\Academy\obj\Debug\Academy.Login.resources
+c:\users\heliandro\documents\visual studio 2015\Projects\Academy\Academy\obj\Debug\Academy.Properties.Resources.resources
+c:\users\heliandro\documents\visual studio 2015\Projects\Academy\Academy\obj\Debug\Academy.csproj.GenerateResource.Cache
+c:\users\heliandro\documents\visual studio 2015\Projects\Academy\Academy\obj\Debug\Academy.exe
+c:\users\heliandro\documents\visual studio 2015\Projects\Academy\Academy\obj\Debug\Academy.pdb
+c:\users\heliandro\documents\visual studio 2015\Projects\Academy\Academy\obj\Debug\Academy.FrmMain.resources
+c:\users\heliandro\documents\visual studio 2015\Projects\Academy\Academy\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Heliandro\Documents\Visual Studio 2015\Projects\Academy\Academy\bin\Debug\CustomControls.pdb
+C:\Users\Heliandro\Documents\Visual Studio 2015\Projects\Academy\Academy\obj\Debug\Academy.FrmNewUser.resources
+C:\Users\Heliandro\Documents\Visual Studio 2015\Projects\Academy\Academy\obj\Debug\Academy.FrmUsersManager.resources
+C:\Users\Heliandro\Documents\Visual Studio 2015\Projects\Academy\Academy\obj\Debug\Academy.FrmHours.resources
+C:\Users\Heliandro\Documents\Visual Studio 2015\Projects\Academy\Academy\obj\Debug\Academy.FrmTeachersManager.resources
+C:\Users\Heliandro\Documents\Visual Studio 2015\Projects\Academy\Academy\obj\Debug\Academy.FrmClassManager.resources
+C:\Users\Heliandro\Documents\Visual Studio 2015\Projects\Academy\Academy\obj\Debug\Academy.FrmNewLearner.resources
+C:\Users\Heliandro\Documents\Visual Studio 2015\Projects\Academy\Academy\obj\Debug\Academy.FrmSelectClass.resources
+C:\Users\Heliandro\Documents\Visual Studio 2015\Projects\Academy\Academy\obj\Debug\Academy.FrmLearnersManager.resources
+C:\Users\Heliandro\Documents\GitHub\gerenciador_de_academia\gerenciador_de_academia_1.0\Academy\bin\Debug\Academy.exe.config
+C:\Users\Heliandro\Documents\GitHub\gerenciador_de_academia\gerenciador_de_academia_1.0\Academy\obj\Debug\Academy.exe
+C:\Users\Heliandro\Documents\GitHub\gerenciador_de_academia\gerenciador_de_academia_1.0\Academy\obj\Debug\Academy.pdb
