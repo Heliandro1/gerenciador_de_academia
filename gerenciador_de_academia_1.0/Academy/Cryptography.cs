@@ -51,7 +51,7 @@ namespace Academy
             {
                 final.Append(hash[i].ToString("X2"));
             }
-            return final.ToString();
+            return final.ToString(); 
         }
        
     }
